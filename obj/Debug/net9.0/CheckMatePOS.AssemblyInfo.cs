@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckMatePOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c70aa2c5984d2f5dbde1cfe646d13626bbbfde8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f9a3f1fee1710dbbe46721a9654f97ae88663d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckMatePOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckMatePOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
